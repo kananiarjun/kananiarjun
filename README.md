@@ -14,7 +14,7 @@ Hello, my name is Arjun Kanani, and I am a passionate Amazon Web Services  from 
 
 If you have any questions or would like to collaborate, feel free to reach out to us:
 
-- **Email:-** arjunkakani2@gmail.com
+- **Email:-** arjunkanani2@gmail.com
 - **Github:-** https://github.com/kananirjun
 
 
