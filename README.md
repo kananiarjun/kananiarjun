@@ -1,4 +1,4 @@
-# Hello, folks! 
+# Hello, folks! 👋
 
 Hello, my name is Arjun Kanani, and I am a passionate Amazon Web Services  from India, currently residing in Rajkot. I am pursuing my studies at Atmiya University, where I am dedicated to acquiring a comprehensive understanding Cloud platforms like AWS , Azure.
 
